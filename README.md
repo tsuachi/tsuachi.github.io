@@ -1,6 +1,6 @@
-## Profile
+## Archi Apronti
 
-### Summary
+### Profile
 A dedicated IT development and operations professional with extensive experience in Agile development transformation, software engineering, requirement engineering, and IT infrastructure operations.
 
 ### Core Competencies
